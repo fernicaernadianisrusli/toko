@@ -1,18 +1,5 @@
 <?php
-/**
- * Codekop Toko Online
- * 
- * @link       https://www.codekop.com/
- * @version    1.0.1
- * @copyright  (c) 2021 
- * 
- * File      : HomeController.php
- * Web Name  : Toko Online
- *  
- *
- * 
- * 
-**/
+
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;

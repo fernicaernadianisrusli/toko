@@ -3,6 +3,7 @@
 <div class="container mt-5">
     <div class="row">
         <div class="col-sm-9 mx-auto">
+            
             <!--product -->
             <div class="product">
                 <h4 class="mb-4"><b>{{ $title }}</b></h4>
